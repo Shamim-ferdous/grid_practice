@@ -1,0 +1,12 @@
+.box0 {
+	background-color: lightseagreen;
+}
+.box1{
+	height: 100px;
+	background-color: coral;
+}
+.box2{
+	height: 100px;
+	background-color: teal;
+	margin-bottom: 5px;
+}
